@@ -26,6 +26,7 @@ module.exports = withBundleAnalyzer({
       'drive.google.com',
       'lh3.googleusercontent.com',
       'lh6.googleusercontent.com',
+      '35.177.223.238',
     ],
   },
   reactStrictMode: true,
